@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683115620119",
+    "project_id": "cloth-308e0",
+    "storage_bucket": "cloth-308e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683115620119:android:6b9f93f1c5f3e1513a7952",
+        "android_client_info": {
+          "package_name": "com.example.weatherwardrobe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683115620119-mlglqalb1p4j36su1kt5rqh9lh0hvscp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeD_CMDpan2Wu-cU5-GWyu3xUMIP3PFuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683115620119-mlglqalb1p4j36su1kt5rqh9lh0hvscp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
